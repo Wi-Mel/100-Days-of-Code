@@ -12,5 +12,6 @@ A new Python program every day for 100 days.
 | Day 4 | Hangman Wordgame | ✅ Done |
 | Day 5 | Ceasar Cipher | ✅ Done |
 | Day 6 | Blind Auction Program | ✅ Done |
-| Day 7 | Coming soon... | ⏳ |
+| Day 7 | Calculator Program | ✅ Done |
+| Day 8 | Coming soon... | ⏳ |
 ...
