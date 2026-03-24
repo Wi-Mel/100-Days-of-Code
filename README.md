@@ -13,5 +13,7 @@ A new Python program every day for 100 days.
 | Day 5 | Ceasar Cipher | ✅ Done |
 | Day 6 | Blind Auction Program | ✅ Done |
 | Day 7 | Calculator Program | ✅ Done |
-| Day 8 | Coming soon... | ⏳ |
+| Day 8 | Blackjack Game | ✅ Done |
+| Day 9 | Number Guessing Game | ✅ Done |
+| Day 10 | Coming soon... | ⏳ |
 ...
