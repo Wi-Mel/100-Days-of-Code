@@ -15,5 +15,6 @@ A new Python program every day for 100 days.
 | Day 7 | Calculator Program | ✅ Done |
 | Day 8 | Blackjack Game | ✅ Done |
 | Day 9 | Number Guessing Game | ✅ Done |
-| Day 10 | Coming soon... | ⏳ |
+| Day 10 | Higher Lower Game | ✅ Done |
+| Day 11 | Coming soon... | ⏳ |
 ...
