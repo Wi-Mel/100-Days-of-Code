@@ -16,5 +16,6 @@ A new Python program every day for 100 days.
 | Day 8 | Blackjack Game | ✅ Done |
 | Day 9 | Number Guessing Game | ✅ Done |
 | Day 10 | Higher Lower Game | ✅ Done |
-| Day 11 | Coming soon... | ⏳ |
+| Day 11 | Coffe Machine | ✅ Done |
+| Day 12 | Coming soon... | ⏳ |
 ...
